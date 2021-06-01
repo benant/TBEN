@@ -1,2 +1,6 @@
 # TBEN
-Benant's TRON TOKEN
+Benant's TOKEN
+
+## TRON : BENT
+
+## ETHER : BENT
